@@ -6,6 +6,8 @@ Testing my fires pull request
 
 Adding another commit
 
+Testing my merge 
+
 
 
 
